@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suhas Annigeri</h1>
-<h3 align="center">I am a Computer Science Engineering student with a solid foundation in data structures and algorithms, and a strong interest in web development and machine learning. I enjoy creating responsive, user-centric web applications and continuously exploring emerging technologies to enhance my skill set. I am currently seeking a full-time opportunity where I can apply my knowledge, contribute to meaningful projects, and continue growing as a developer by learning from industry professionals.</h3>
+<h3 align="center">I am a Computer Science Engineering student with a solid foundation in data structures and algorithms, and a strong interest in web development and machine learning. I enjoy creating responsive, user-centric web applications and continuously exploring emerging technologies to enhance my skill set.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhas4518&label=Profile%20views&color=0e75b6&style=flat" alt="suhas4518" /> </p>
 
